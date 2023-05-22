@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\bin\Debug\net7.0\RabbitmqSender.exe
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\bin\Debug\net7.0\RabbitmqSender.deps.json
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\bin\Debug\net7.0\RabbitmqSender.runtimeconfig.json
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\bin\Debug\net7.0\RabbitmqSender.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\bin\Debug\net7.0\RabbitmqSender.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\refint\RabbitmqSender.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\ref\RabbitmqSender.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqSender\obj\Debug\net7.0\RabbitmqSender.csproj.CopyComplete

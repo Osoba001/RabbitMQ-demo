@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxcw0G9XBDgHn2aG2E52AM8xBaGzd8N8ymZrv43NWCWTWQhsmr0Z5/Vc8Bv6drSHUOAYo8xNcFODk3GQ3Pllrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Apps\\Microservices\\RabbitmqSender\\RabbitmqReciever1\\RabbitmqReciever1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

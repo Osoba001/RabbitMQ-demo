@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\bin\Debug\net7.0\RabbitmqReciever2.exe
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\bin\Debug\net7.0\RabbitmqReciever2.deps.json
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\bin\Debug\net7.0\RabbitmqReciever2.runtimeconfig.json
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\bin\Debug\net7.0\RabbitmqReciever2.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\bin\Debug\net7.0\RabbitmqReciever2.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.csproj.CopyComplete
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\refint\RabbitmqReciever2.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\RabbitmqReciever2.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever2\obj\Debug\net7.0\ref\RabbitmqReciever2.dll

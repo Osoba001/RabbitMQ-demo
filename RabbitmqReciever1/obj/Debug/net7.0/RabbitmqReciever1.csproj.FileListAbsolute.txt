@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\bin\Debug\net7.0\RabbitmqReciever1.exe
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\bin\Debug\net7.0\RabbitmqReciever1.deps.json
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\bin\Debug\net7.0\RabbitmqReciever1.runtimeconfig.json
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\bin\Debug\net7.0\RabbitmqReciever1.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\bin\Debug\net7.0\RabbitmqReciever1.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\refint\RabbitmqReciever1.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\ref\RabbitmqReciever1.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\DELL\Desktop\Apps\Microservices\RabbitmqSender\RabbitmqReciever1\obj\Debug\net7.0\RabbitmqReciever1.csproj.CopyComplete
