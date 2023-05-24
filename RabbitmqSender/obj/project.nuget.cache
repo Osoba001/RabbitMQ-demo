@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gIcRT842uqsV0X1B5URJEEsIZQOxtqaDmjHhznUNc5vs4Uh9sI46NuGzrOmaKyXMTyvrdQDria8xKuBeNhZULg==",
+  "dgSpecHash": "rvpFYfIpYmoqP/dBHXpYPqBXKJT1ojWC0AdyTCENFTWbBrHhG8j4R9JsXwyMvho8gU27LexttzORNpuLcu9Ppg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Apps\\Microservices\\RabbitmqSender\\RabbitmqSender\\RabbitmqSender.csproj",
+  "projectFilePath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\Messages\\RabbitMQ-demo\\RabbitmqSender\\RabbitmqSender.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
