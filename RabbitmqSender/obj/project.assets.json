@@ -43,6 +43,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "ConfigData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ConfigData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConfigData.dll": {}
+        }
       }
     }
   },
@@ -114,10 +124,16 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ConfigData/1.0.0": {
+      "type": "project",
+      "path": "../ConfigData/ConfigData.csproj",
+      "msbuildProject": "../ConfigData/ConfigData.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ConfigData >= 1.0.0",
       "RabbitMQ.Client >= 6.5.0"
     ]
   },
@@ -148,7 +164,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kelly.osoba\\Desktop\\APPs\\Messages\\RabbitMQ-demo\\ConfigData\\ConfigData.csproj": {
+              "projectPath": "C:\\Users\\kelly.osoba\\Desktop\\APPs\\Messages\\RabbitMQ-demo\\ConfigData\\ConfigData.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

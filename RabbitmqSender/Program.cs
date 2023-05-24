@@ -2,9 +2,12 @@
 
 using RabbitMQ.Client;
 
-ConnectionFactory factory=new();
-factory.Uri = new Uri("amqp://guest:guest@localhost:5672");
-factory.ClientProvidedName = "RabbitMQ Sender App";
+ConnectionFactory factory = new()
+{
+    Uri = new Uri(Url),
+    ClientProvidedName = "RabbitMQ Sender App",
+    
+};
 
 IConnection conn=factory.CreateConnection();
 

@@ -6,10 +6,6 @@ public static class QueueConsumer
 {
     public static void Consume(IModel channel)
     {
-        string exchangeName = "DemoExchange";
-        string routingKey = "Demo-routing-key";
-        string queue = "DemoQueue";
-
         channel.ExchangeDeclare(exchangeName, ExchangeType.Direct);
         channel.QueueDeclare(queue, durable: false, exclusive: false, autoDelete: false);
         channel.QueueBind(queue, exchangeName, routingKey);

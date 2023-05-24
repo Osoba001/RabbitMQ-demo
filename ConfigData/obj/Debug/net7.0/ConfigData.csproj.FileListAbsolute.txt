@@ -1,0 +1,15 @@
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\bin\Debug\net7.0\ConfigData.exe
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\bin\Debug\net7.0\ConfigData.deps.json
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\bin\Debug\net7.0\ConfigData.runtimeconfig.json
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\bin\Debug\net7.0\ConfigData.dll
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\bin\Debug\net7.0\ConfigData.pdb
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.csproj.AssemblyReference.cache
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.AssemblyInfoInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.AssemblyInfo.cs
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.csproj.CoreCompileInputs.cache
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.dll
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\refint\ConfigData.dll
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.pdb
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ConfigData.genruntimeconfig.cache
+C:\Users\kelly.osoba\Desktop\APPs\Messages\RabbitMQ-demo\ConfigData\obj\Debug\net7.0\ref\ConfigData.dll
