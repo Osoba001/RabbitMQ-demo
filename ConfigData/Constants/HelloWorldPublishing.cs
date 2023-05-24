@@ -19,5 +19,8 @@ namespace ConfigData.Constants
         public const string TopicExchangeName = "Topic-Exchange";
         public const string TopicRoutingKey = "topic.routekey.account.hello";
         public const string TopicQueue = "Topic-Queue";
+
+        public const string HeaderExchangeName = "Header-Exchange";
+        public const string HeaderQueue = "Header-Queue";
     }
 }
