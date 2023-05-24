@@ -7,7 +7,7 @@ factory.ClientProvidedName = "RabbitMQ Reciever1 App";
 IConnection conn = factory.CreateConnection();
 
 IModel channel = conn.CreateModel();
-QueueConsumer.Consume(channel);
+DirectQueueConsumer.Consume(channel);
 
 channel.Close();
 conn.Close();

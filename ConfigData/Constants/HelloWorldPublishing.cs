@@ -8,9 +8,16 @@ namespace ConfigData.Constants
 {
     public static class HelloWorldPublishing
     {
-        public static string exchangeName = "DemoExchange";
-        public static string routingKey = "Demo-routing-key";
-        public static string queue = "DemoQueue";
-        public static string Url = "amqp://guest:guest@localhost:5672";
+        public const string Url = "amqp://guest:guest@localhost:5672";
+
+        
+        public const string DirectExchangeName = "Direct-Exchange";
+        public const string DirectRoutingKey = "Direct-routing-key";
+        public const string DirectQueue = "Direct-Queue";
+
+
+        public const string TopicExchangeName = "Topic-Exchange";
+        public const string TopicRoutingKey = "topic.routekey.account.hello";
+        public const string TopicQueue = "Topic-Queue";
     }
 }
